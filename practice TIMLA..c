@@ -111,7 +111,7 @@ int main(void)
             }
             s2=s2+s;
         }
-        else if(y%400==0)
+        else 
         {
             for(i=sum-1,j=0;i<458;i++,j++)
             {
